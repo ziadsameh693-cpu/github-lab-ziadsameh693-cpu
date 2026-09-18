@@ -1,0 +1,3 @@
+TEAM NOTES
+
+Repository created for the GitHub lab.
